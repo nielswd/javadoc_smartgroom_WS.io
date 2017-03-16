@@ -1,0 +1,13 @@
+fr.smartgroom.bean
+fr.smartgroom.bean.params.client
+fr.smartgroom.bean.params.logiciel
+fr.smartgroom.bean.params.perso
+fr.smartgroom.bean.response
+fr.smartgroom.dao
+fr.smartgroom.dao.client
+fr.smartgroom.dao.logiciel
+fr.smartgroom.dao.perso
+fr.smartgroom.service
+fr.smartgroom.service.client
+fr.smartgroom.service.logiciel
+fr.smartgroom.service.perso
